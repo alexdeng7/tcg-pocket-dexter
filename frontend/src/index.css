@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+
+  .animate-spin-slow {
+    animation: spin 8s linear infinite;
+  }
+
+  .glow-pokeball {
+    filter: drop-shadow(0 0 10px #f87171) drop-shadow(0 0 20px #f87171);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+}
