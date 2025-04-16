@@ -1,10 +1,10 @@
+opencv-python
+imagehash
+pandas
+pillow
+tqdm
+inference-sdk
 requests
 beautifulsoup4
-pandas
-tqdm
-opencv-python
-scikit-learn
-numpy
-Pillow
-selenium webdriver-manager
-ImageHash
+selenium
+webdriver-manager
