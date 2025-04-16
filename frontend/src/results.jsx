@@ -7,16 +7,18 @@ function Results() {
   const navigate = useNavigate();
   const [matchedCard, setMatchedCard] = useState(null);
 
+  const API_URL = import.meta.env.VITE_API_URL;
+
   useEffect(() => {
-    fetch("http://localhost:3001/matched-card")
+    fetch(`${API_URL}/matched-card`)
       .then((res) => res.json())
       .then((data) => setMatchedCard(data))
       .catch((err) => console.error("Error fetching matched card", err));
-  }, []);
+  }, [API_URL]);
 
   const cardName = matchedCard?.matched_card?.replace(".webp", "") || "";
   const cardImageURL = matchedCard
-    ? `http://localhost:3001/croppedCards/${matchedCard.cropped_card}`
+    ? `${API_URL}/croppedCards/${matchedCard.cropped_card}`
     : "";
 
   return (
