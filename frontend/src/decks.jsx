@@ -9,9 +9,11 @@ function Decks() {
   const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
 
+  const API_URL = import.meta.env.VITE_API_URL;
+
   useEffect(() => {
-    fetch("http://localhost:3001/match-decks")
-      .then(() => fetch("http://localhost:3001/data/decksMatched.csv"))
+    fetch(`${API_URL}/match-decks`)
+      .then(() => fetch(`${API_URL}/data/decksMatched.csv`))
       .then((res) => res.text())
       .then((csvText) => {
         Papa.parse(csvText, {
@@ -27,7 +29,7 @@ function Decks() {
         console.error("Error fetching matched decks:", err);
         setLoading(false);
       });
-  }, []);
+  }, [API_URL]);
 
   const renderTags = (text) => {
     if (!text) return null;
@@ -43,7 +45,7 @@ function Decks() {
 
   const handleDeckSelect = async (index) => {
     try {
-      await fetch("http://localhost:3001/select-deck", {
+      await fetch(`${API_URL}/select-deck`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ index }),

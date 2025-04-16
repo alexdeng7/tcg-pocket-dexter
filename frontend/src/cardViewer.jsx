@@ -9,18 +9,18 @@ function CardViewer() {
   const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
 
+  const API_URL = import.meta.env.VITE_API_URL;
+
   useEffect(() => {
     const fetchData = async () => {
       try {
-        await fetch("http://localhost:3001/run-card-viewer");
+        await fetch(`${API_URL}/run-card-viewer`);
 
-        const imageRes = await fetch("http://localhost:3001/get-deck-cards");
+        const imageRes = await fetch(`${API_URL}/get-deck-cards`);
         const images = await imageRes.json();
         setCardImages(images);
 
-        const packRes = await fetch(
-          "http://localhost:3001/data/openThesePacks.csv"
-        );
+        const packRes = await fetch(`${API_URL}/data/openThesePacks.csv`);
         const packText = await packRes.text();
         const rows = packText.split("\n").slice(1);
         const parsed = rows
@@ -37,7 +37,7 @@ function CardViewer() {
     };
 
     fetchData();
-  }, []);
+  }, [API_URL]);
 
   return (
     <div className="w-screen min-h-screen bg-gradient-to-br from-purple-100 via-pink-200 to-yellow-100 flex flex-col justify-center items-center text-center text-gray-800 px-4 py-12 relative overflow-hidden">
@@ -63,7 +63,7 @@ function CardViewer() {
               {cardImages.map((img, idx) => (
                 <img
                   key={idx}
-                  src={`http://localhost:3001/topDeckCards/${img}`}
+                  src={`${API_URL}/topDeckCards/${img}`}
                   alt={`Card ${idx + 1}`}
                   className="rounded-sm shadow-sm w-full h-auto hover:scale-105 transition-transform duration-200"
                 />
