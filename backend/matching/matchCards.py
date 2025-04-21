@@ -74,8 +74,8 @@ for idx, pred in enumerate(predictions):
     print(f"Card saved: {savePath}")
 
 
-def computeHashes(image_path):
-    image = Image.open(image_path).convert("RGB")
+def computeHashes(imagePath):
+    image = Image.open(imagePath).convert("RGB")
     return {
         "ahash": imagehash.average_hash(image),
         "phash": imagehash.phash(image),
