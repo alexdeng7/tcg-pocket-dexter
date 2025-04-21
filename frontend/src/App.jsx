@@ -57,8 +57,8 @@ function App() {
 
       <div className="bg-white/50 backdrop-blur-lg p-8 md:p-10 rounded-3xl shadow-xl border border-white/20 max-w-xl w-full">
         <p className="text-lg md:text-xl text-gray-700 mb-6">
-          Upload a screenshot with your card(s), and let us help you find the
-          best decks to play with!
+          Upload a screenshot with a card, and let us help you find the best
+          decks to play with!
         </p>
 
         <input
