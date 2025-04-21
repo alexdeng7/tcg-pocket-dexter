@@ -67,6 +67,8 @@ function Decks() {
 
       <h1 className="text-5xl md:text-6xl font-extrabold text-indigo-700 drop-shadow-lg animate-pulse mb-8 font-pokemon">
         The Current Best Deck(s)
+        <br />
+        Select One To Continue
       </h1>
 
       <div className="bg-white/50 backdrop-blur-md p-6 md:p-10 max-w-5xl w-full rounded-3xl shadow-xl overflow-x-auto border border-white/30">
@@ -118,12 +120,12 @@ function Decks() {
         )}
 
         <div className="flex flex-col sm:flex-row justify-center gap-4 mt-10">
-          <button
+          {/* <button
             onClick={() => navigate("/viewer")}
             className="bg-purple-500 hover:bg-purple-600 text-white text-md font-semibold py-2 px-6 rounded-full shadow transition duration-300"
           >
             Show Me The Full Set!
-          </button>
+          </button> */}
           <button
             onClick={() => navigate("/")}
             className="bg-indigo-500 hover:bg-indigo-600 text-white text-md font-semibold py-2 px-6 rounded-full shadow transition duration-300"
