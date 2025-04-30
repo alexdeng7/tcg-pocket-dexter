@@ -47,7 +47,7 @@ def ptcgpScraper():
     driver.quit()
 
     containers = soup.select('div.frontside')
-    print(f"🧩 Found {len(containers)} card containers")
+    print(f"Found {len(containers)} card containers")
 
     cards = []
     for container in containers:

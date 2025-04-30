@@ -1,10 +1,12 @@
 name,image_url
 Bulbasaur,https://static.dotgg.gg/pokepocket/card/A1-001.webp
 Exeggcute,https://static.dotgg.gg/pokepocket/card/A1a-001.webp
+Exeggcute,https://static.dotgg.gg/pokepocket/card/A3-001.webp
 Heracross,https://static.dotgg.gg/pokepocket/card/A2a-001.webp
 Oddish,https://static.dotgg.gg/pokepocket/card/A2-001.webp
 Potion,https://static.dotgg.gg/pokepocket/card/PROMO-001.webp
 Weedle,https://static.dotgg.gg/pokepocket/card/A2b-001.webp
+Alolan Exeggutor,https://static.dotgg.gg/pokepocket/card/A3-002.webp
 Burmy,https://static.dotgg.gg/pokepocket/card/A2a-002.webp
 Exeggutor,https://static.dotgg.gg/pokepocket/card/A1a-002.webp
 Gloom,https://static.dotgg.gg/pokepocket/card/A2-002.webp
@@ -16,14 +18,17 @@ Bellossom,https://static.dotgg.gg/pokepocket/card/A2-003.webp
 Celebi ex,https://static.dotgg.gg/pokepocket/card/A1a-003.webp
 Hand Scope,https://static.dotgg.gg/pokepocket/card/PROMO-003.webp
 Mothim,https://static.dotgg.gg/pokepocket/card/A2a-003.webp
+Surskit,https://static.dotgg.gg/pokepocket/card/A3-003.webp
 Venusaur,https://static.dotgg.gg/pokepocket/card/A1-003.webp
 Combee,https://static.dotgg.gg/pokepocket/card/A2a-004.webp
+Masquerain,https://static.dotgg.gg/pokepocket/card/A3-004.webp
 Pinsir,https://static.dotgg.gg/pokepocket/card/A2b-004.webp
 Pokédex,https://static.dotgg.gg/pokepocket/card/PROMO-004.webp
 Snivy,https://static.dotgg.gg/pokepocket/card/A1a-004.webp
 Tangela,https://static.dotgg.gg/pokepocket/card/A2-004.webp
 Venusaur ex,https://static.dotgg.gg/pokepocket/card/A1-004.webp
 Caterpie,https://static.dotgg.gg/pokepocket/card/A1-005.webp
+Maractus,https://static.dotgg.gg/pokepocket/card/A3-005.webp
 Poké Ball,https://static.dotgg.gg/pokepocket/card/PROMO-005.webp
 Servine,https://static.dotgg.gg/pokepocket/card/A1a-005.webp
 Sprigatito,https://static.dotgg.gg/pokepocket/card/A2b-005.webp
@@ -31,6 +36,7 @@ Tangrowth,https://static.dotgg.gg/pokepocket/card/A2-005.webp
 Vespiquen,https://static.dotgg.gg/pokepocket/card/A2a-005.webp
 Cherubi,https://static.dotgg.gg/pokepocket/card/A2a-006.webp
 Floragato,https://static.dotgg.gg/pokepocket/card/A2b-006.webp
+Karrablast,https://static.dotgg.gg/pokepocket/card/A3-006.webp
 Metapod,https://static.dotgg.gg/pokepocket/card/A1-006.webp
 Red Card,https://static.dotgg.gg/pokepocket/card/PROMO-006.webp
 Serperior,https://static.dotgg.gg/pokepocket/card/A1a-006.webp
@@ -39,6 +45,7 @@ Butterfree,https://static.dotgg.gg/pokepocket/card/A1-007.webp
 Cherrim,https://static.dotgg.gg/pokepocket/card/A2a-007.webp
 Meowscarada,https://static.dotgg.gg/pokepocket/card/A2b-007.webp
 Morelull,https://static.dotgg.gg/pokepocket/card/A1a-007.webp
+Phantump,https://static.dotgg.gg/pokepocket/card/A3-007.webp
 Professor’s Research,https://static.dotgg.gg/pokepocket/card/PROMO-007.webp
 Yanmega ex,https://static.dotgg.gg/pokepocket/card/A2-007.webp
 Charmander,https://static.dotgg.gg/pokepocket/card/A2b-008.webp
@@ -46,6 +53,7 @@ Cherrim,https://static.dotgg.gg/pokepocket/card/A2a-008.webp
 Pokédex,https://static.dotgg.gg/pokepocket/card/PROMO-008.webp
 Roselia,https://static.dotgg.gg/pokepocket/card/A2-008.webp
 Shiinotic,https://static.dotgg.gg/pokepocket/card/A1a-008.webp
+Trevenant,https://static.dotgg.gg/pokepocket/card/A3-008.webp
 Weedle,https://static.dotgg.gg/pokepocket/card/A1-008.webp
 Carnivine,https://static.dotgg.gg/pokepocket/card/A2a-009.webp
 Charmeleon,https://static.dotgg.gg/pokepocket/card/A2b-009.webp
@@ -53,18 +61,22 @@ Dhelmise,https://static.dotgg.gg/pokepocket/card/A1a-009.webp
 Kakuna,https://static.dotgg.gg/pokepocket/card/A1-009.webp
 Pikachu,https://static.dotgg.gg/pokepocket/card/PROMO-009.webp
 Roserade,https://static.dotgg.gg/pokepocket/card/A2-009.webp
+Rowlet,https://static.dotgg.gg/pokepocket/card/A3-009.webp
 Beedrill,https://static.dotgg.gg/pokepocket/card/A1-010.webp
 Charizard ex,https://static.dotgg.gg/pokepocket/card/A2b-010.webp
 Leafeon ex,https://static.dotgg.gg/pokepocket/card/A2a-010.webp
 Mewtwo,https://static.dotgg.gg/pokepocket/card/PROMO-010.webp
 Ponyta,https://static.dotgg.gg/pokepocket/card/A1a-010.webp
+Rowlet,https://static.dotgg.gg/pokepocket/card/A3-010.webp
 Turtwig,https://static.dotgg.gg/pokepocket/card/A2-010.webp
 Chansey,https://static.dotgg.gg/pokepocket/card/PROMO-011.webp
+Dartrix,https://static.dotgg.gg/pokepocket/card/A3-011.webp
 Grotle,https://static.dotgg.gg/pokepocket/card/A2-011.webp
 Houndour,https://static.dotgg.gg/pokepocket/card/A2a-011.webp
 Magmar,https://static.dotgg.gg/pokepocket/card/A2b-011.webp
 Oddish,https://static.dotgg.gg/pokepocket/card/A1-011.webp
 Rapidash,https://static.dotgg.gg/pokepocket/card/A1a-011.webp
+Decidueye ex,https://static.dotgg.gg/pokepocket/card/A3-012.webp
 Gloom,https://static.dotgg.gg/pokepocket/card/A1-012.webp
 Houndoom,https://static.dotgg.gg/pokepocket/card/A2a-012.webp
 Magmar,https://static.dotgg.gg/pokepocket/card/A1a-012.webp
@@ -72,11 +84,13 @@ Magmortar,https://static.dotgg.gg/pokepocket/card/A2b-012.webp
 Meowth,https://static.dotgg.gg/pokepocket/card/PROMO-012.webp
 Torterra,https://static.dotgg.gg/pokepocket/card/A2-012.webp
 Butterfree,https://static.dotgg.gg/pokepocket/card/PROMO-013.webp
+Grubbin,https://static.dotgg.gg/pokepocket/card/A3-013.webp
 Heatran,https://static.dotgg.gg/pokepocket/card/A2a-013.webp
 Kricketot,https://static.dotgg.gg/pokepocket/card/A2-013.webp
 Larvesta,https://static.dotgg.gg/pokepocket/card/A1a-013.webp
 Paldean Tauros,https://static.dotgg.gg/pokepocket/card/A2b-013.webp
 Vileplume,https://static.dotgg.gg/pokepocket/card/A1-013.webp
+Fomantis,https://static.dotgg.gg/pokepocket/card/A3-014.webp
 Kricketune,https://static.dotgg.gg/pokepocket/card/A2-014.webp
 Lapras ex,https://static.dotgg.gg/pokepocket/card/PROMO-014.webp
 Marill,https://static.dotgg.gg/pokepocket/card/A2a-014.webp
@@ -85,6 +99,7 @@ Tentacool,https://static.dotgg.gg/pokepocket/card/A2b-014.webp
 Volcarona,https://static.dotgg.gg/pokepocket/card/A1a-014.webp
 Azumarill,https://static.dotgg.gg/pokepocket/card/A2a-015.webp
 Burmy,https://static.dotgg.gg/pokepocket/card/A2-015.webp
+Lurantis,https://static.dotgg.gg/pokepocket/card/A3-015.webp
 Parasect,https://static.dotgg.gg/pokepocket/card/A1-015.webp
 Pikachu,https://static.dotgg.gg/pokepocket/card/PROMO-015.webp
 Salandit,https://static.dotgg.gg/pokepocket/card/A1a-015.webp
@@ -92,6 +107,7 @@ Tentacruel,https://static.dotgg.gg/pokepocket/card/A2b-015.webp
 Barboach,https://static.dotgg.gg/pokepocket/card/A2a-016.webp
 Buizel,https://static.dotgg.gg/pokepocket/card/A2b-016.webp
 Clefairy,https://static.dotgg.gg/pokepocket/card/PROMO-016.webp
+Morelull,https://static.dotgg.gg/pokepocket/card/A3-016.webp
 Salazzle,https://static.dotgg.gg/pokepocket/card/A1a-016.webp
 Venonat,https://static.dotgg.gg/pokepocket/card/A1-016.webp
 Wormadam,https://static.dotgg.gg/pokepocket/card/A2-016.webp
@@ -99,9 +115,11 @@ Combee,https://static.dotgg.gg/pokepocket/card/A2-017.webp
 Floatzel,https://static.dotgg.gg/pokepocket/card/A2b-017.webp
 Magikarp,https://static.dotgg.gg/pokepocket/card/A1a-017.webp
 Mankey,https://static.dotgg.gg/pokepocket/card/PROMO-017.webp
+Shiinotic,https://static.dotgg.gg/pokepocket/card/A3-017.webp
 Venomoth,https://static.dotgg.gg/pokepocket/card/A1-017.webp
 Whiscash,https://static.dotgg.gg/pokepocket/card/A2a-017.webp
 Bellsprout,https://static.dotgg.gg/pokepocket/card/A1-018.webp
+Bounsweet,https://static.dotgg.gg/pokepocket/card/A3-018.webp
 Gyarados ex,https://static.dotgg.gg/pokepocket/card/A1a-018.webp
 Snorunt,https://static.dotgg.gg/pokepocket/card/A2a-018.webp
 Venusaur,https://static.dotgg.gg/pokepocket/card/PROMO-018.webp
@@ -110,6 +128,7 @@ Wiglett,https://static.dotgg.gg/pokepocket/card/A2b-018.webp
 Carnivine,https://static.dotgg.gg/pokepocket/card/A2-019.webp
 Froslass,https://static.dotgg.gg/pokepocket/card/A2a-019.webp
 Greninja,https://static.dotgg.gg/pokepocket/card/PROMO-019.webp
+Steenee,https://static.dotgg.gg/pokepocket/card/A3-019.webp
 Vaporeon,https://static.dotgg.gg/pokepocket/card/A1a-019.webp
 Weepinbell,https://static.dotgg.gg/pokepocket/card/A1-019.webp
 Wugtrio ex,https://static.dotgg.gg/pokepocket/card/A2b-019.webp
@@ -118,6 +137,7 @@ Finneon,https://static.dotgg.gg/pokepocket/card/A1a-020.webp
 Haunter,https://static.dotgg.gg/pokepocket/card/PROMO-020.webp
 Leafeon,https://static.dotgg.gg/pokepocket/card/A2-020.webp
 Snover,https://static.dotgg.gg/pokepocket/card/A2a-020.webp
+Tsareena,https://static.dotgg.gg/pokepocket/card/A3-020.webp
 Victreebel,https://static.dotgg.gg/pokepocket/card/A1-020.webp
 Abomasnow,https://static.dotgg.gg/pokepocket/card/A2a-021.webp
 Exeggcute,https://static.dotgg.gg/pokepocket/card/A1-021.webp
@@ -125,13 +145,16 @@ Lumineon,https://static.dotgg.gg/pokepocket/card/A1a-021.webp
 Mow Rotom,https://static.dotgg.gg/pokepocket/card/A2-021.webp
 Onix,https://static.dotgg.gg/pokepocket/card/PROMO-021.webp
 Tatsugiri,https://static.dotgg.gg/pokepocket/card/A2b-021.webp
+Wimpod,https://static.dotgg.gg/pokepocket/card/A3-021.webp
 Chewtle,https://static.dotgg.gg/pokepocket/card/A1a-022.webp
 Exeggutor,https://static.dotgg.gg/pokepocket/card/A1-022.webp
 Glaceon ex,https://static.dotgg.gg/pokepocket/card/A2a-022.webp
+Golisopod,https://static.dotgg.gg/pokepocket/card/A3-022.webp
 Jigglypuff,https://static.dotgg.gg/pokepocket/card/PROMO-022.webp
 Pikachu ex,https://static.dotgg.gg/pokepocket/card/A2b-022.webp
 Shaymin,https://static.dotgg.gg/pokepocket/card/A2-022.webp
 Bulbasaur,https://static.dotgg.gg/pokepocket/card/PROMO-023.webp
+Dhelmise ex,https://static.dotgg.gg/pokepocket/card/A3-023.webp
 Drednaw,https://static.dotgg.gg/pokepocket/card/A1a-023.webp
 Exeggutor ex,https://static.dotgg.gg/pokepocket/card/A1-023.webp
 Magmar,https://static.dotgg.gg/pokepocket/card/A2-023.webp
@@ -143,24 +166,29 @@ Magmortar,https://static.dotgg.gg/pokepocket/card/A2-024.webp
 Magnemite,https://static.dotgg.gg/pokepocket/card/PROMO-024.webp
 Phione,https://static.dotgg.gg/pokepocket/card/A2a-024.webp
 Tangela,https://static.dotgg.gg/pokepocket/card/A1-024.webp
+Tapu Bulu,https://static.dotgg.gg/pokepocket/card/A3-024.webp
+Growlithe,https://static.dotgg.gg/pokepocket/card/A3-025.webp
 Moltres ex,https://static.dotgg.gg/pokepocket/card/PROMO-025.webp
 Pachirisu,https://static.dotgg.gg/pokepocket/card/A2b-025.webp
 Pikachu,https://static.dotgg.gg/pokepocket/card/A1a-025.webp
 Pikachu,https://static.dotgg.gg/pokepocket/card/A2a-025.webp
 Scyther,https://static.dotgg.gg/pokepocket/card/A1-025.webp
 Slugma,https://static.dotgg.gg/pokepocket/card/A2-025.webp
+Arcanine,https://static.dotgg.gg/pokepocket/card/A3-026.webp
 Magcargo,https://static.dotgg.gg/pokepocket/card/A2-026.webp
 Pawmi,https://static.dotgg.gg/pokepocket/card/A2b-026.webp
 Pikachu,https://static.dotgg.gg/pokepocket/card/PROMO-026.webp
 Pinsir,https://static.dotgg.gg/pokepocket/card/A1-026.webp
 Raichu,https://static.dotgg.gg/pokepocket/card/A1a-026.webp
 Raichu,https://static.dotgg.gg/pokepocket/card/A2a-026.webp
+Alolan Marowak,https://static.dotgg.gg/pokepocket/card/A3-027.webp
 Chimchar,https://static.dotgg.gg/pokepocket/card/A2-027.webp
 Cottonee,https://static.dotgg.gg/pokepocket/card/A1-027.webp
 Electabuzz,https://static.dotgg.gg/pokepocket/card/A1a-027.webp
 Electrike,https://static.dotgg.gg/pokepocket/card/A2a-027.webp
 Pawmo,https://static.dotgg.gg/pokepocket/card/A2b-027.webp
 Snivy,https://static.dotgg.gg/pokepocket/card/PROMO-027.webp
+Fletchinder,https://static.dotgg.gg/pokepocket/card/A3-028.webp
 Joltik,https://static.dotgg.gg/pokepocket/card/A1a-028.webp
 Manectric,https://static.dotgg.gg/pokepocket/card/A2a-028.webp
 Monferno,https://static.dotgg.gg/pokepocket/card/A2-028.webp
@@ -173,15 +201,18 @@ Clefairy,https://static.dotgg.gg/pokepocket/card/A2a-029.webp
 Galvantula,https://static.dotgg.gg/pokepocket/card/A1a-029.webp
 Infernape ex,https://static.dotgg.gg/pokepocket/card/A2-029.webp
 Petilil,https://static.dotgg.gg/pokepocket/card/A1-029.webp
+Talonflame,https://static.dotgg.gg/pokepocket/card/A3-029.webp
 Clefable,https://static.dotgg.gg/pokepocket/card/A2a-030.webp
 Dedenne,https://static.dotgg.gg/pokepocket/card/A1a-030.webp
 Eevee,https://static.dotgg.gg/pokepocket/card/PROMO-030.webp
 Heat Rotom,https://static.dotgg.gg/pokepocket/card/A2-030.webp
 Kadabra,https://static.dotgg.gg/pokepocket/card/A2b-030.webp
 Lilligant,https://static.dotgg.gg/pokepocket/card/A1-030.webp
+Litten,https://static.dotgg.gg/pokepocket/card/A3-030.webp
 Alakazam,https://static.dotgg.gg/pokepocket/card/A2b-031.webp
 Cinccino,https://static.dotgg.gg/pokepocket/card/PROMO-031.webp
 Gastly,https://static.dotgg.gg/pokepocket/card/A2a-031.webp
+Litten,https://static.dotgg.gg/pokepocket/card/A3-031.webp
 Mew,https://static.dotgg.gg/pokepocket/card/A1a-031.webp
 Skiddo,https://static.dotgg.gg/pokepocket/card/A1-031.webp
 Swinub,https://static.dotgg.gg/pokepocket/card/A2-031.webp
@@ -191,15 +222,18 @@ Haunter,https://static.dotgg.gg/pokepocket/card/A2a-032.webp
 Mew ex,https://static.dotgg.gg/pokepocket/card/A1a-032.webp
 Mr. Mime,https://static.dotgg.gg/pokepocket/card/A2b-032.webp
 Piloswine,https://static.dotgg.gg/pokepocket/card/A2-032.webp
+Torracat,https://static.dotgg.gg/pokepocket/card/A3-032.webp
 Charmander,https://static.dotgg.gg/pokepocket/card/A1-033.webp
 Drifloon,https://static.dotgg.gg/pokepocket/card/A2b-033.webp
 Gengar,https://static.dotgg.gg/pokepocket/card/A2a-033.webp
+Incineroar ex,https://static.dotgg.gg/pokepocket/card/A3-033.webp
 Mamoswine,https://static.dotgg.gg/pokepocket/card/A2-033.webp
 Sigilyph,https://static.dotgg.gg/pokepocket/card/A1a-033.webp
 Squirtle,https://static.dotgg.gg/pokepocket/card/PROMO-033.webp
 Charmeleon,https://static.dotgg.gg/pokepocket/card/A1-034.webp
 Drifblim,https://static.dotgg.gg/pokepocket/card/A2b-034.webp
 Elgyem,https://static.dotgg.gg/pokepocket/card/A1a-034.webp
+Oricorio,https://static.dotgg.gg/pokepocket/card/A3-034.webp
 Piplup,https://static.dotgg.gg/pokepocket/card/PROMO-034.webp
 Regice,https://static.dotgg.gg/pokepocket/card/A2-034.webp
 Unown,https://static.dotgg.gg/pokepocket/card/A2a-034.webp
@@ -208,37 +242,44 @@ Charizard,https://static.dotgg.gg/pokepocket/card/A1-035.webp
 Giratina ex,https://static.dotgg.gg/pokepocket/card/A2b-035.webp
 Piplup,https://static.dotgg.gg/pokepocket/card/A2-035.webp
 Rotom,https://static.dotgg.gg/pokepocket/card/A2a-035.webp
+Salandit,https://static.dotgg.gg/pokepocket/card/A3-035.webp
 Turtwig,https://static.dotgg.gg/pokepocket/card/PROMO-035.webp
 Charizard ex,https://static.dotgg.gg/pokepocket/card/A1-036.webp
 Electivire,https://static.dotgg.gg/pokepocket/card/PROMO-036.webp
 Flabébé,https://static.dotgg.gg/pokepocket/card/A1a-036.webp
 Gimmighoul,https://static.dotgg.gg/pokepocket/card/A2b-036.webp
 Prinplup,https://static.dotgg.gg/pokepocket/card/A2-036.webp
+Salazzle,https://static.dotgg.gg/pokepocket/card/A3-036.webp
 Sudowoodo,https://static.dotgg.gg/pokepocket/card/A2a-036.webp
 Cresselia ex,https://static.dotgg.gg/pokepocket/card/PROMO-037.webp
 Empoleon,https://static.dotgg.gg/pokepocket/card/A2-037.webp
 Floette,https://static.dotgg.gg/pokepocket/card/A1a-037.webp
 Machop,https://static.dotgg.gg/pokepocket/card/A2b-037.webp
 Phanpy,https://static.dotgg.gg/pokepocket/card/A2a-037.webp
+Turtonator,https://static.dotgg.gg/pokepocket/card/A3-037.webp
 Vulpix,https://static.dotgg.gg/pokepocket/card/A1-037.webp
+Alolan Sandshrew,https://static.dotgg.gg/pokepocket/card/A3-038.webp
 Buizel,https://static.dotgg.gg/pokepocket/card/A2-038.webp
 Donphan,https://static.dotgg.gg/pokepocket/card/A2a-038.webp
 Florges,https://static.dotgg.gg/pokepocket/card/A1a-038.webp
 Machoke,https://static.dotgg.gg/pokepocket/card/A2b-038.webp
 Misdreavus,https://static.dotgg.gg/pokepocket/card/PROMO-038.webp
 Ninetales,https://static.dotgg.gg/pokepocket/card/A1-038.webp
+Alolan Sandslash,https://static.dotgg.gg/pokepocket/card/A3-039.webp
 Floatzel,https://static.dotgg.gg/pokepocket/card/A2-039.webp
 Growlithe,https://static.dotgg.gg/pokepocket/card/A1-039.webp
 Larvitar,https://static.dotgg.gg/pokepocket/card/A2a-039.webp
 Machamp,https://static.dotgg.gg/pokepocket/card/A2b-039.webp
 Skarmory,https://static.dotgg.gg/pokepocket/card/PROMO-039.webp
 Swirlix,https://static.dotgg.gg/pokepocket/card/A1a-039.webp
+Alolan Vulpix,https://static.dotgg.gg/pokepocket/card/A3-040.webp
 Arcanine,https://static.dotgg.gg/pokepocket/card/A1-040.webp
 Chimchar,https://static.dotgg.gg/pokepocket/card/PROMO-040.webp
 Hitmonlee,https://static.dotgg.gg/pokepocket/card/A2b-040.webp
 Pupitar,https://static.dotgg.gg/pokepocket/card/A2a-040.webp
 Shellos,https://static.dotgg.gg/pokepocket/card/A2-040.webp
 Slurpuff,https://static.dotgg.gg/pokepocket/card/A1a-040.webp
+Alolan Ninetales,https://static.dotgg.gg/pokepocket/card/A3-041.webp
 Arcanine ex,https://static.dotgg.gg/pokepocket/card/A1-041.webp
 Gastrodon,https://static.dotgg.gg/pokepocket/card/A2-041.webp
 Hitmonchan,https://static.dotgg.gg/pokepocket/card/A2b-041.webp
@@ -251,7 +292,9 @@ Nosepass,https://static.dotgg.gg/pokepocket/card/A2a-042.webp
 Ponyta,https://static.dotgg.gg/pokepocket/card/A1-042.webp
 Primeape,https://static.dotgg.gg/pokepocket/card/A1a-042.webp
 Riolu,https://static.dotgg.gg/pokepocket/card/A2b-042.webp
+Shellder,https://static.dotgg.gg/pokepocket/card/A3-042.webp
 Cherrim,https://static.dotgg.gg/pokepocket/card/PROMO-043.webp
+Cloyster,https://static.dotgg.gg/pokepocket/card/A3-043.webp
 Geodude,https://static.dotgg.gg/pokepocket/card/A1a-043.webp
 Lucario ex,https://static.dotgg.gg/pokepocket/card/A2b-043.webp
 Lumineon,https://static.dotgg.gg/pokepocket/card/A2-043.webp
@@ -259,6 +302,7 @@ Meditite,https://static.dotgg.gg/pokepocket/card/A2a-043.webp
 Rapidash,https://static.dotgg.gg/pokepocket/card/A1-043.webp
 Flamigo,https://static.dotgg.gg/pokepocket/card/A2b-044.webp
 Graveler,https://static.dotgg.gg/pokepocket/card/A1a-044.webp
+Lapras,https://static.dotgg.gg/pokepocket/card/A3-044.webp
 Magmar,https://static.dotgg.gg/pokepocket/card/A1-044.webp
 Medicham,https://static.dotgg.gg/pokepocket/card/A2a-044.webp
 Raichu,https://static.dotgg.gg/pokepocket/card/PROMO-044.webp
@@ -269,12 +313,15 @@ Flareon,https://static.dotgg.gg/pokepocket/card/A1-045.webp
 Gible,https://static.dotgg.gg/pokepocket/card/A2a-045.webp
 Golem,https://static.dotgg.gg/pokepocket/card/A1a-045.webp
 Nosepass,https://static.dotgg.gg/pokepocket/card/PROMO-045.webp
+Popplio,https://static.dotgg.gg/pokepocket/card/A3-045.webp
 Aerodactyl ex,https://static.dotgg.gg/pokepocket/card/A1a-046.webp
 Arbok,https://static.dotgg.gg/pokepocket/card/A2b-046.webp
 Gabite,https://static.dotgg.gg/pokepocket/card/A2a-046.webp
 Gible,https://static.dotgg.gg/pokepocket/card/PROMO-046.webp
 Glaceon,https://static.dotgg.gg/pokepocket/card/A2-046.webp
 Moltres,https://static.dotgg.gg/pokepocket/card/A1-046.webp
+Popplio,https://static.dotgg.gg/pokepocket/card/A3-046.webp
+Brionne,https://static.dotgg.gg/pokepocket/card/A3-047.webp
 Garchomp ex,https://static.dotgg.gg/pokepocket/card/A2a-047.webp
 Marshadow,https://static.dotgg.gg/pokepocket/card/A1a-047.webp
 Moltres ex,https://static.dotgg.gg/pokepocket/card/A1-047.webp
@@ -285,8 +332,10 @@ Frost Rotom,https://static.dotgg.gg/pokepocket/card/A2-048.webp
 Heatmor,https://static.dotgg.gg/pokepocket/card/A1-048.webp
 Manaphy,https://static.dotgg.gg/pokepocket/card/PROMO-048.webp
 Paldean Clodsire ex,https://static.dotgg.gg/pokepocket/card/A2b-048.webp
+Primarina,https://static.dotgg.gg/pokepocket/card/A3-048.webp
 Stonjourner,https://static.dotgg.gg/pokepocket/card/A1a-048.webp
 Zubat,https://static.dotgg.gg/pokepocket/card/A2a-048.webp
+Crabominable ex,https://static.dotgg.gg/pokepocket/card/A3-049.webp
 Golbat,https://static.dotgg.gg/pokepocket/card/A2a-049.webp
 Koffing,https://static.dotgg.gg/pokepocket/card/A1a-049.webp
 Palkia ex,https://static.dotgg.gg/pokepocket/card/A2-049.webp
@@ -299,18 +348,22 @@ Mewtwo ex,https://static.dotgg.gg/pokepocket/card/PROMO-050.webp
 Salazzle,https://static.dotgg.gg/pokepocket/card/A1-050.webp
 Shroodle,https://static.dotgg.gg/pokepocket/card/A2b-050.webp
 Weezing,https://static.dotgg.gg/pokepocket/card/A1a-050.webp
+Wishiwashi,https://static.dotgg.gg/pokepocket/card/A3-050.webp
 Croagunk,https://static.dotgg.gg/pokepocket/card/A2a-051.webp
 Cyclizar,https://static.dotgg.gg/pokepocket/card/PROMO-051.webp
 Grafaiai,https://static.dotgg.gg/pokepocket/card/A2b-051.webp
 Magnemite,https://static.dotgg.gg/pokepocket/card/A2-051.webp
 Purrloin,https://static.dotgg.gg/pokepocket/card/A1a-051.webp
 Sizzlipede,https://static.dotgg.gg/pokepocket/card/A1-051.webp
+Wishiwashi ex,https://static.dotgg.gg/pokepocket/card/A3-051.webp
 Centiskorch,https://static.dotgg.gg/pokepocket/card/A1-052.webp
+Dewpider,https://static.dotgg.gg/pokepocket/card/A3-052.webp
 Liepard,https://static.dotgg.gg/pokepocket/card/A1a-052.webp
 Magneton,https://static.dotgg.gg/pokepocket/card/A2-052.webp
 Sprigatito,https://static.dotgg.gg/pokepocket/card/PROMO-052.webp
 Tinkatink,https://static.dotgg.gg/pokepocket/card/A2b-052.webp
 Toxicroak,https://static.dotgg.gg/pokepocket/card/A2a-052.webp
+Araquanid,https://static.dotgg.gg/pokepocket/card/A3-053.webp
 Floatzel,https://static.dotgg.gg/pokepocket/card/PROMO-053.webp
 Magnemite,https://static.dotgg.gg/pokepocket/card/A2a-053.webp
 Magnezone,https://static.dotgg.gg/pokepocket/card/A2-053.webp
@@ -319,11 +372,13 @@ Tinkatuff,https://static.dotgg.gg/pokepocket/card/A2b-053.webp
 Venipede,https://static.dotgg.gg/pokepocket/card/A1a-053.webp
 Magneton,https://static.dotgg.gg/pokepocket/card/A2a-054.webp
 Pawmot,https://static.dotgg.gg/pokepocket/card/PROMO-054.webp
+Pyukumuku,https://static.dotgg.gg/pokepocket/card/A3-054.webp
 Tinkaton ex,https://static.dotgg.gg/pokepocket/card/A2b-054.webp
 Voltorb,https://static.dotgg.gg/pokepocket/card/A2-054.webp
 Wartortle,https://static.dotgg.gg/pokepocket/card/A1-054.webp
 Whirlipede,https://static.dotgg.gg/pokepocket/card/A1a-054.webp
 Blastoise,https://static.dotgg.gg/pokepocket/card/A1-055.webp
+Bruxish,https://static.dotgg.gg/pokepocket/card/A3-055.webp
 Electrode,https://static.dotgg.gg/pokepocket/card/A2-055.webp
 Machamp,https://static.dotgg.gg/pokepocket/card/PROMO-055.webp
 Magnezone,https://static.dotgg.gg/pokepocket/card/A2a-055.webp
@@ -335,100 +390,134 @@ Ekans,https://static.dotgg.gg/pokepocket/card/PROMO-056.webp
 Electabuzz,https://static.dotgg.gg/pokepocket/card/A2-056.webp
 Mawile,https://static.dotgg.gg/pokepocket/card/A2a-056.webp
 Revavroom,https://static.dotgg.gg/pokepocket/card/A2b-056.webp
+Tapu Fini,https://static.dotgg.gg/pokepocket/card/A3-056.webp
 Bidoof,https://static.dotgg.gg/pokepocket/card/PROMO-057.webp
 Electivire,https://static.dotgg.gg/pokepocket/card/A2-057.webp
 Gholdengo,https://static.dotgg.gg/pokepocket/card/A2b-057.webp
 Pidgey,https://static.dotgg.gg/pokepocket/card/A1a-057.webp
+Pikachu,https://static.dotgg.gg/pokepocket/card/A3-057.webp
 Probopass ex,https://static.dotgg.gg/pokepocket/card/A2a-057.webp
 Psyduck,https://static.dotgg.gg/pokepocket/card/A1-057.webp
+Alolan Raichu ex,https://static.dotgg.gg/pokepocket/card/A3-058.webp
 Bronzor,https://static.dotgg.gg/pokepocket/card/A2a-058.webp
 Golduck,https://static.dotgg.gg/pokepocket/card/A1-058.webp
 Pachirisu,https://static.dotgg.gg/pokepocket/card/PROMO-058.webp
 Pidgeotto,https://static.dotgg.gg/pokepocket/card/A1a-058.webp
 Rattata,https://static.dotgg.gg/pokepocket/card/A2b-058.webp
 Shinx,https://static.dotgg.gg/pokepocket/card/A2-058.webp
+Alolan Geodude,https://static.dotgg.gg/pokepocket/card/A3-059.webp
 Bronzong,https://static.dotgg.gg/pokepocket/card/A2a-059.webp
 Luxio,https://static.dotgg.gg/pokepocket/card/A2-059.webp
 Pidgeot ex,https://static.dotgg.gg/pokepocket/card/A1a-059.webp
 Poliwag,https://static.dotgg.gg/pokepocket/card/A1-059.webp
 Raticate,https://static.dotgg.gg/pokepocket/card/A2b-059.webp
 Riolu,https://static.dotgg.gg/pokepocket/card/PROMO-059.webp
+Alolan Graveler,https://static.dotgg.gg/pokepocket/card/A3-060.webp
+Exeggcute,https://static.dotgg.gg/pokepocket/card/PROMO-060.webp
 Jigglypuff,https://static.dotgg.gg/pokepocket/card/A2b-060.webp
 Luxray,https://static.dotgg.gg/pokepocket/card/A2-060.webp
 Origin Forme Dialga,https://static.dotgg.gg/pokepocket/card/A2a-060.webp
 Poliwhirl,https://static.dotgg.gg/pokepocket/card/A1-060.webp
 Tauros,https://static.dotgg.gg/pokepocket/card/A1a-060.webp
+Alolan Golem,https://static.dotgg.gg/pokepocket/card/A3-061.webp
 Eevee,https://static.dotgg.gg/pokepocket/card/A1a-061.webp
+Froakie,https://static.dotgg.gg/pokepocket/card/PROMO-061.webp
 Giratina,https://static.dotgg.gg/pokepocket/card/A2a-061.webp
 Pachirisu ex,https://static.dotgg.gg/pokepocket/card/A2-061.webp
 Poliwrath,https://static.dotgg.gg/pokepocket/card/A1-061.webp
 Wigglytuff,https://static.dotgg.gg/pokepocket/card/A2b-061.webp
 Chatot,https://static.dotgg.gg/pokepocket/card/A1a-062.webp
 Eevee,https://static.dotgg.gg/pokepocket/card/A2a-062.webp
+Farfetch’d,https://static.dotgg.gg/pokepocket/card/PROMO-062.webp
+Helioptile,https://static.dotgg.gg/pokepocket/card/A3-062.webp
 Lickitung,https://static.dotgg.gg/pokepocket/card/A2b-062.webp
 Rotom,https://static.dotgg.gg/pokepocket/card/A2-062.webp
 Tentacool,https://static.dotgg.gg/pokepocket/card/A1-062.webp
+Heliolisk,https://static.dotgg.gg/pokepocket/card/A3-063.webp
 Lickilicky,https://static.dotgg.gg/pokepocket/card/A2b-063.webp
 Old Amber,https://static.dotgg.gg/pokepocket/card/A1a-063.webp
+Rayquaza,https://static.dotgg.gg/pokepocket/card/PROMO-063.webp
 Snorlax,https://static.dotgg.gg/pokepocket/card/A2a-063.webp
 Tentacruel,https://static.dotgg.gg/pokepocket/card/A1-063.webp
 Togepi,https://static.dotgg.gg/pokepocket/card/A2-063.webp
 Bidoof,https://static.dotgg.gg/pokepocket/card/A2b-064.webp
+Charjabug,https://static.dotgg.gg/pokepocket/card/A3-064.webp
 Hoothoot,https://static.dotgg.gg/pokepocket/card/A2a-064.webp
 Pokémon Flute,https://static.dotgg.gg/pokepocket/card/A1a-064.webp
+Rayquaza ex,https://static.dotgg.gg/pokepocket/card/PROMO-064.webp
 Seel,https://static.dotgg.gg/pokepocket/card/A1-064.webp
 Togetic,https://static.dotgg.gg/pokepocket/card/A2-064.webp
 Bibarel ex,https://static.dotgg.gg/pokepocket/card/A2b-065.webp
 Dewgong,https://static.dotgg.gg/pokepocket/card/A1-065.webp
 Mythical Slab,https://static.dotgg.gg/pokepocket/card/A1a-065.webp
 Noctowl,https://static.dotgg.gg/pokepocket/card/A2a-065.webp
+Rayquaza ex,https://static.dotgg.gg/pokepocket/card/PROMO-065.webp
 Togekiss,https://static.dotgg.gg/pokepocket/card/A2-065.webp
+Vikavolt,https://static.dotgg.gg/pokepocket/card/A3-065.webp
 Budding Expeditioner,https://static.dotgg.gg/pokepocket/card/A1a-066.webp
 Buneary,https://static.dotgg.gg/pokepocket/card/A2b-066.webp
+Mimikyu,https://static.dotgg.gg/pokepocket/card/PROMO-066.webp
 Misdreavus,https://static.dotgg.gg/pokepocket/card/A2-066.webp
+Oricorio,https://static.dotgg.gg/pokepocket/card/A3-066.webp
 Shellder,https://static.dotgg.gg/pokepocket/card/A1-066.webp
 Starly,https://static.dotgg.gg/pokepocket/card/A2a-066.webp
 Blue,https://static.dotgg.gg/pokepocket/card/A1a-067.webp
 Cloyster,https://static.dotgg.gg/pokepocket/card/A1-067.webp
+Cosmog,https://static.dotgg.gg/pokepocket/card/PROMO-067.webp
 Lopunny,https://static.dotgg.gg/pokepocket/card/A2b-067.webp
 Mismagius ex,https://static.dotgg.gg/pokepocket/card/A2-067.webp
 Staravia,https://static.dotgg.gg/pokepocket/card/A2a-067.webp
+Togedemaru,https://static.dotgg.gg/pokepocket/card/A3-067.webp
 Cyclizar,https://static.dotgg.gg/pokepocket/card/A2b-068.webp
 Krabby,https://static.dotgg.gg/pokepocket/card/A1-068.webp
 Leaf,https://static.dotgg.gg/pokepocket/card/A1a-068.webp
+Lycanroc,https://static.dotgg.gg/pokepocket/card/PROMO-068.webp
 Ralts,https://static.dotgg.gg/pokepocket/card/A2-068.webp
 Staraptor,https://static.dotgg.gg/pokepocket/card/A2a-068.webp
+Tapu Koko,https://static.dotgg.gg/pokepocket/card/A3-068.webp
+Alolan Exeggutor,https://static.dotgg.gg/pokepocket/card/PROMO-069.webp
 Exeggutor,https://static.dotgg.gg/pokepocket/card/A1a-069.webp
 Iono,https://static.dotgg.gg/pokepocket/card/A2b-069.webp
 Kingler,https://static.dotgg.gg/pokepocket/card/A1-069.webp
 Kirlia,https://static.dotgg.gg/pokepocket/card/A2-069.webp
+Mr. Mime,https://static.dotgg.gg/pokepocket/card/A3-069.webp
 Shaymin,https://static.dotgg.gg/pokepocket/card/A2a-069.webp
+Alolan Ninetales,https://static.dotgg.gg/pokepocket/card/PROMO-070.webp
 Arceus,https://static.dotgg.gg/pokepocket/card/A2a-070.webp
 Duskull,https://static.dotgg.gg/pokepocket/card/A2-070.webp
 Horsea,https://static.dotgg.gg/pokepocket/card/A1-070.webp
 Pokémon Center Lady,https://static.dotgg.gg/pokepocket/card/A2b-070.webp
+Sableye,https://static.dotgg.gg/pokepocket/card/A3-070.webp
 Serperior,https://static.dotgg.gg/pokepocket/card/A1a-070.webp
 Arceus ex,https://static.dotgg.gg/pokepocket/card/A2a-071.webp
+Crabrawler,https://static.dotgg.gg/pokepocket/card/PROMO-071.webp
 Dusclops,https://static.dotgg.gg/pokepocket/card/A2-071.webp
 Red,https://static.dotgg.gg/pokepocket/card/A2b-071.webp
 Salandit,https://static.dotgg.gg/pokepocket/card/A1a-071.webp
 Seadra,https://static.dotgg.gg/pokepocket/card/A1-071.webp
+Spoink,https://static.dotgg.gg/pokepocket/card/A3-071.webp
+Alolan Grimer,https://static.dotgg.gg/pokepocket/card/PROMO-072.webp
 Dusknoir,https://static.dotgg.gg/pokepocket/card/A2-072.webp
 Goldeen,https://static.dotgg.gg/pokepocket/card/A1-072.webp
+Grumpig,https://static.dotgg.gg/pokepocket/card/A3-072.webp
 Irida,https://static.dotgg.gg/pokepocket/card/A2a-072.webp
 Team Rocket Grunt,https://static.dotgg.gg/pokepocket/card/A2b-072.webp
 Vaporeon,https://static.dotgg.gg/pokepocket/card/A1a-072.webp
 Celestic Town Elder,https://static.dotgg.gg/pokepocket/card/A2a-073.webp
 Dedenne,https://static.dotgg.gg/pokepocket/card/A1a-073.webp
 Drifloon,https://static.dotgg.gg/pokepocket/card/A2-073.webp
+Lunatone,https://static.dotgg.gg/pokepocket/card/A3-073.webp
 Meowscarada,https://static.dotgg.gg/pokepocket/card/A2b-073.webp
 Seaking,https://static.dotgg.gg/pokepocket/card/A1-073.webp
+Toucannon,https://static.dotgg.gg/pokepocket/card/PROMO-073.webp
 Barry,https://static.dotgg.gg/pokepocket/card/A2a-074.webp
 Buizel,https://static.dotgg.gg/pokepocket/card/A2b-074.webp
 Drifblim,https://static.dotgg.gg/pokepocket/card/A2-074.webp
 Marshadow,https://static.dotgg.gg/pokepocket/card/A1a-074.webp
+Shuppet,https://static.dotgg.gg/pokepocket/card/A3-074.webp
 Staryu,https://static.dotgg.gg/pokepocket/card/A1-074.webp
 Adaman,https://static.dotgg.gg/pokepocket/card/A2a-075.webp
+Banette,https://static.dotgg.gg/pokepocket/card/A3-075.webp
 Celebi ex,https://static.dotgg.gg/pokepocket/card/A1a-075.webp
 Starmie,https://static.dotgg.gg/pokepocket/card/A1-075.webp
 Tatsugiri,https://static.dotgg.gg/pokepocket/card/A2b-075.webp
@@ -437,13 +526,16 @@ Grafaiai,https://static.dotgg.gg/pokepocket/card/A2b-076.webp
 Gyarados ex,https://static.dotgg.gg/pokepocket/card/A1a-076.webp
 Houndoom,https://static.dotgg.gg/pokepocket/card/A2a-076.webp
 Mesprit,https://static.dotgg.gg/pokepocket/card/A2-076.webp
+Oricorio,https://static.dotgg.gg/pokepocket/card/A3-076.webp
 Starmie ex,https://static.dotgg.gg/pokepocket/card/A1-076.webp
 Azelf,https://static.dotgg.gg/pokepocket/card/A2-077.webp
 Gholdengo,https://static.dotgg.gg/pokepocket/card/A2b-077.webp
 Magikarp,https://static.dotgg.gg/pokepocket/card/A1-077.webp
 Marill,https://static.dotgg.gg/pokepocket/card/A2a-077.webp
 Mew ex,https://static.dotgg.gg/pokepocket/card/A1a-077.webp
+Oricorio,https://static.dotgg.gg/pokepocket/card/A3-077.webp
 Aerodactyl ex,https://static.dotgg.gg/pokepocket/card/A1a-078.webp
+Cutiefly,https://static.dotgg.gg/pokepocket/card/A3-078.webp
 Giratina,https://static.dotgg.gg/pokepocket/card/A2-078.webp
 Gyarados,https://static.dotgg.gg/pokepocket/card/A1-078.webp
 Unown,https://static.dotgg.gg/pokepocket/card/A2a-078.webp
@@ -452,20 +544,24 @@ Beedrill ex,https://static.dotgg.gg/pokepocket/card/A2b-079.webp
 Cresselia,https://static.dotgg.gg/pokepocket/card/A2-079.webp
 Lapras,https://static.dotgg.gg/pokepocket/card/A1-079.webp
 Pidgeot ex,https://static.dotgg.gg/pokepocket/card/A1a-079.webp
+Ribombee,https://static.dotgg.gg/pokepocket/card/A3-079.webp
 Sudowoodo,https://static.dotgg.gg/pokepocket/card/A2a-079.webp
 Budding Expeditioner,https://static.dotgg.gg/pokepocket/card/A1a-080.webp
 Charizard ex,https://static.dotgg.gg/pokepocket/card/A2b-080.webp
+Comfey,https://static.dotgg.gg/pokepocket/card/A3-080.webp
 Magnemite,https://static.dotgg.gg/pokepocket/card/A2a-080.webp
 Rhyhorn,https://static.dotgg.gg/pokepocket/card/A2-080.webp
 Vaporeon,https://static.dotgg.gg/pokepocket/card/A1-080.webp
 Blue,https://static.dotgg.gg/pokepocket/card/A1a-081.webp
 Omanyte,https://static.dotgg.gg/pokepocket/card/A1-081.webp
 Rhydon,https://static.dotgg.gg/pokepocket/card/A2-081.webp
+Sandygast,https://static.dotgg.gg/pokepocket/card/A3-081.webp
 Shaymin,https://static.dotgg.gg/pokepocket/card/A2a-081.webp
 Wugtrio ex,https://static.dotgg.gg/pokepocket/card/A2b-081.webp
 Leaf,https://static.dotgg.gg/pokepocket/card/A1a-082.webp
 Leafeon ex,https://static.dotgg.gg/pokepocket/card/A2a-082.webp
 Omastar,https://static.dotgg.gg/pokepocket/card/A1-082.webp
+Palossand,https://static.dotgg.gg/pokepocket/card/A3-082.webp
 Pikachu ex,https://static.dotgg.gg/pokepocket/card/A2b-082.webp
 Rhyperior,https://static.dotgg.gg/pokepocket/card/A2-082.webp
 Articuno,https://static.dotgg.gg/pokepocket/card/A1-083.webp
@@ -473,17 +569,21 @@ Giratina ex,https://static.dotgg.gg/pokepocket/card/A2b-083.webp
 Glaceon ex,https://static.dotgg.gg/pokepocket/card/A2a-083.webp
 Gligar,https://static.dotgg.gg/pokepocket/card/A2-083.webp
 Mew ex,https://static.dotgg.gg/pokepocket/card/A1a-083.webp
+Mimikyu,https://static.dotgg.gg/pokepocket/card/A3-083.webp
 Aerodactyl ex,https://static.dotgg.gg/pokepocket/card/A1a-084.webp
 Articuno ex,https://static.dotgg.gg/pokepocket/card/A1-084.webp
 Garchomp ex,https://static.dotgg.gg/pokepocket/card/A2a-084.webp
 Gliscor,https://static.dotgg.gg/pokepocket/card/A2-084.webp
 Lucario ex,https://static.dotgg.gg/pokepocket/card/A2b-084.webp
+Tapu Lele,https://static.dotgg.gg/pokepocket/card/A3-084.webp
 Celebi ex,https://static.dotgg.gg/pokepocket/card/A1a-085.webp
+Cosmog,https://static.dotgg.gg/pokepocket/card/A3-085.webp
 Ducklett,https://static.dotgg.gg/pokepocket/card/A1-085.webp
 Hitmontop,https://static.dotgg.gg/pokepocket/card/A2-085.webp
 Paldean Clodsire ex,https://static.dotgg.gg/pokepocket/card/A2b-085.webp
 Probopass ex,https://static.dotgg.gg/pokepocket/card/A2a-085.webp
 Arceus ex,https://static.dotgg.gg/pokepocket/card/A2a-086.webp
+Cosmoem,https://static.dotgg.gg/pokepocket/card/A3-086.webp
 Mew ex,https://static.dotgg.gg/pokepocket/card/A1a-086.webp
 Nosepass,https://static.dotgg.gg/pokepocket/card/A2-086.webp
 Swanna,https://static.dotgg.gg/pokepocket/card/A1-086.webp
@@ -491,20 +591,25 @@ Tinkaton ex,https://static.dotgg.gg/pokepocket/card/A2b-086.webp
 Bibarel ex,https://static.dotgg.gg/pokepocket/card/A2b-087.webp
 Froakie,https://static.dotgg.gg/pokepocket/card/A1-087.webp
 Irida,https://static.dotgg.gg/pokepocket/card/A2a-087.webp
+Lunala ex,https://static.dotgg.gg/pokepocket/card/A3-087.webp
 Regirock,https://static.dotgg.gg/pokepocket/card/A2-087.webp
 Celestic Town Elder,https://static.dotgg.gg/pokepocket/card/A2a-088.webp
 Cranidos,https://static.dotgg.gg/pokepocket/card/A2-088.webp
 Frogadier,https://static.dotgg.gg/pokepocket/card/A1-088.webp
 Iono,https://static.dotgg.gg/pokepocket/card/A2b-088.webp
+Necrozma,https://static.dotgg.gg/pokepocket/card/A3-088.webp
 Barry,https://static.dotgg.gg/pokepocket/card/A2a-089.webp
+Cubone,https://static.dotgg.gg/pokepocket/card/A3-089.webp
 Greninja,https://static.dotgg.gg/pokepocket/card/A1-089.webp
 Pokémon Center Lady,https://static.dotgg.gg/pokepocket/card/A2b-089.webp
 Rampardos,https://static.dotgg.gg/pokepocket/card/A2-089.webp
 Adaman,https://static.dotgg.gg/pokepocket/card/A2a-090.webp
+Makuhita,https://static.dotgg.gg/pokepocket/card/A3-090.webp
 Pyukumuku,https://static.dotgg.gg/pokepocket/card/A1-090.webp
 Red,https://static.dotgg.gg/pokepocket/card/A2b-090.webp
 Wormadam,https://static.dotgg.gg/pokepocket/card/A2-090.webp
 Bruxish,https://static.dotgg.gg/pokepocket/card/A1-091.webp
+Hariyama,https://static.dotgg.gg/pokepocket/card/A3-091.webp
 Leafeon ex,https://static.dotgg.gg/pokepocket/card/A2a-091.webp
 Riolu,https://static.dotgg.gg/pokepocket/card/A2-091.webp
 Team Rocket Grunt,https://static.dotgg.gg/pokepocket/card/A2b-091.webp
@@ -512,6 +617,8 @@ Glaceon ex,https://static.dotgg.gg/pokepocket/card/A2a-092.webp
 Lucario,https://static.dotgg.gg/pokepocket/card/A2-092.webp
 Pikachu ex,https://static.dotgg.gg/pokepocket/card/A2b-092.webp
 Snom,https://static.dotgg.gg/pokepocket/card/A1-092.webp
+Solrock,https://static.dotgg.gg/pokepocket/card/A3-092.webp
+Drilbur,https://static.dotgg.gg/pokepocket/card/A3-093.webp
 Frosmoth,https://static.dotgg.gg/pokepocket/card/A1-093.webp
 Garchomp ex,https://static.dotgg.gg/pokepocket/card/A2a-093.webp
 Hippopotas,https://static.dotgg.gg/pokepocket/card/A2-093.webp
@@ -519,284 +626,430 @@ Paldean Clodsire ex,https://static.dotgg.gg/pokepocket/card/A2b-093.webp
 Hippowdon,https://static.dotgg.gg/pokepocket/card/A2-094.webp
 Pikachu,https://static.dotgg.gg/pokepocket/card/A1-094.webp
 Probopass ex,https://static.dotgg.gg/pokepocket/card/A2a-094.webp
+Timburr,https://static.dotgg.gg/pokepocket/card/A3-094.webp
 Tinkaton ex,https://static.dotgg.gg/pokepocket/card/A2b-094.webp
 Arceus ex,https://static.dotgg.gg/pokepocket/card/A2a-095.webp
 Bibarel ex,https://static.dotgg.gg/pokepocket/card/A2b-095.webp
 Gallade ex,https://static.dotgg.gg/pokepocket/card/A2-095.webp
+Gurdurr,https://static.dotgg.gg/pokepocket/card/A3-095.webp
 Raichu,https://static.dotgg.gg/pokepocket/card/A1-095.webp
 Arceus ex,https://static.dotgg.gg/pokepocket/card/A2a-096.webp
+Conkeldurr,https://static.dotgg.gg/pokepocket/card/A3-096.webp
 Giratina ex,https://static.dotgg.gg/pokepocket/card/A2b-096.webp
 Murkrow,https://static.dotgg.gg/pokepocket/card/A2-096.webp
 Pikachu ex,https://static.dotgg.gg/pokepocket/card/A1-096.webp
+Crabrawler,https://static.dotgg.gg/pokepocket/card/A3-097.webp
 Honchkrow,https://static.dotgg.gg/pokepocket/card/A2-097.webp
 Magnemite,https://static.dotgg.gg/pokepocket/card/A1-097.webp
 Weedle,https://static.dotgg.gg/pokepocket/card/A2b-097.webp
 Kakuna,https://static.dotgg.gg/pokepocket/card/A2b-098.webp
 Magneton,https://static.dotgg.gg/pokepocket/card/A1-098.webp
+Rockruff,https://static.dotgg.gg/pokepocket/card/A3-098.webp
 Sneasel,https://static.dotgg.gg/pokepocket/card/A2-098.webp
 Charmander,https://static.dotgg.gg/pokepocket/card/A2b-099.webp
+Rockruff,https://static.dotgg.gg/pokepocket/card/A3-099.webp
 Voltorb,https://static.dotgg.gg/pokepocket/card/A1-099.webp
 Weavile ex,https://static.dotgg.gg/pokepocket/card/A2-099.webp
 Charmeleon,https://static.dotgg.gg/pokepocket/card/A2b-100.webp
 Electrode,https://static.dotgg.gg/pokepocket/card/A1-100.webp
+Lycanroc,https://static.dotgg.gg/pokepocket/card/A3-100.webp
 Poochyena,https://static.dotgg.gg/pokepocket/card/A2-100.webp
 Electabuzz,https://static.dotgg.gg/pokepocket/card/A1-101.webp
+Lycanroc,https://static.dotgg.gg/pokepocket/card/A3-101.webp
 Mightyena,https://static.dotgg.gg/pokepocket/card/A2-101.webp
 Wiglett,https://static.dotgg.gg/pokepocket/card/A2b-101.webp
 Dondozo,https://static.dotgg.gg/pokepocket/card/A2b-102.webp
 Jolteon,https://static.dotgg.gg/pokepocket/card/A1-102.webp
+Mudbray,https://static.dotgg.gg/pokepocket/card/A3-102.webp
 Stunky,https://static.dotgg.gg/pokepocket/card/A2-102.webp
+Mudsdale,https://static.dotgg.gg/pokepocket/card/A3-103.webp
 Pachirisu,https://static.dotgg.gg/pokepocket/card/A2b-103.webp
 Skuntank,https://static.dotgg.gg/pokepocket/card/A2-103.webp
 Zapdos,https://static.dotgg.gg/pokepocket/card/A1-103.webp
+Passimian ex,https://static.dotgg.gg/pokepocket/card/A3-104.webp
 Riolu,https://static.dotgg.gg/pokepocket/card/A2b-104.webp
 Spiritomb,https://static.dotgg.gg/pokepocket/card/A2-104.webp
 Zapdos ex,https://static.dotgg.gg/pokepocket/card/A1-104.webp
 Blitzle,https://static.dotgg.gg/pokepocket/card/A1-105.webp
+Minior,https://static.dotgg.gg/pokepocket/card/A3-105.webp
 Skorupi,https://static.dotgg.gg/pokepocket/card/A2-105.webp
 Varoom,https://static.dotgg.gg/pokepocket/card/A2b-105.webp
+Alolan Rattata,https://static.dotgg.gg/pokepocket/card/A3-106.webp
 Drapion,https://static.dotgg.gg/pokepocket/card/A2-106.webp
 Revavroom,https://static.dotgg.gg/pokepocket/card/A2b-106.webp
 Zebstrika,https://static.dotgg.gg/pokepocket/card/A1-106.webp
+Alolan Raticate,https://static.dotgg.gg/pokepocket/card/A3-107.webp
 Beedrill ex,https://static.dotgg.gg/pokepocket/card/A2b-107.webp
 Croagunk,https://static.dotgg.gg/pokepocket/card/A2-107.webp
 Tynamo,https://static.dotgg.gg/pokepocket/card/A1-107.webp
+Alolan Meowth,https://static.dotgg.gg/pokepocket/card/A3-108.webp
 Charizard ex,https://static.dotgg.gg/pokepocket/card/A2b-108.webp
 Eelektrik,https://static.dotgg.gg/pokepocket/card/A1-108.webp
 Toxicroak,https://static.dotgg.gg/pokepocket/card/A2-108.webp
+Alolan Persian,https://static.dotgg.gg/pokepocket/card/A3-109.webp
 Darkrai,https://static.dotgg.gg/pokepocket/card/A2-109.webp
 Eelektross,https://static.dotgg.gg/pokepocket/card/A1-109.webp
 Wugtrio ex,https://static.dotgg.gg/pokepocket/card/A2b-109.webp
+Alolan Grimer,https://static.dotgg.gg/pokepocket/card/A3-110.webp
 Darkrai ex,https://static.dotgg.gg/pokepocket/card/A2-110.webp
 Helioptile,https://static.dotgg.gg/pokepocket/card/A1-110.webp
 Lucario ex,https://static.dotgg.gg/pokepocket/card/A2b-110.webp
+Alolan Muk ex,https://static.dotgg.gg/pokepocket/card/A3-111.webp
 Heliolisk,https://static.dotgg.gg/pokepocket/card/A1-111.webp
 Poké Ball,https://static.dotgg.gg/pokepocket/card/A2b-111.webp
 Skarmory,https://static.dotgg.gg/pokepocket/card/A2-111.webp
+Absol,https://static.dotgg.gg/pokepocket/card/A3-112.webp
 Pincurchin,https://static.dotgg.gg/pokepocket/card/A1-112.webp
 Registeel,https://static.dotgg.gg/pokepocket/card/A2-112.webp
 Clefairy,https://static.dotgg.gg/pokepocket/card/A1-113.webp
 Shieldon,https://static.dotgg.gg/pokepocket/card/A2-113.webp
+Trubbish,https://static.dotgg.gg/pokepocket/card/A3-113.webp
 Bastiodon,https://static.dotgg.gg/pokepocket/card/A2-114.webp
 Clefable,https://static.dotgg.gg/pokepocket/card/A1-114.webp
+Garbodor,https://static.dotgg.gg/pokepocket/card/A3-114.webp
 Abra,https://static.dotgg.gg/pokepocket/card/A1-115.webp
+Mareanie,https://static.dotgg.gg/pokepocket/card/A3-115.webp
 Wormadam,https://static.dotgg.gg/pokepocket/card/A2-115.webp
 Bronzor,https://static.dotgg.gg/pokepocket/card/A2-116.webp
 Kadabra,https://static.dotgg.gg/pokepocket/card/A1-116.webp
+Toxapex,https://static.dotgg.gg/pokepocket/card/A3-116.webp
 Alakazam,https://static.dotgg.gg/pokepocket/card/A1-117.webp
+Alolan Diglett,https://static.dotgg.gg/pokepocket/card/A3-117.webp
 Bronzong,https://static.dotgg.gg/pokepocket/card/A2-117.webp
+Alolan Dugtrio,https://static.dotgg.gg/pokepocket/card/A3-118.webp
 Probopass,https://static.dotgg.gg/pokepocket/card/A2-118.webp
 Slowpoke,https://static.dotgg.gg/pokepocket/card/A1-118.webp
 Dialga ex,https://static.dotgg.gg/pokepocket/card/A2-119.webp
+Excadrill,https://static.dotgg.gg/pokepocket/card/A3-119.webp
 Slowbro,https://static.dotgg.gg/pokepocket/card/A1-119.webp
+Escavalier,https://static.dotgg.gg/pokepocket/card/A3-120.webp
 Gastly,https://static.dotgg.gg/pokepocket/card/A1-120.webp
 Heatran,https://static.dotgg.gg/pokepocket/card/A2-120.webp
 Gible,https://static.dotgg.gg/pokepocket/card/A2-121.webp
 Haunter,https://static.dotgg.gg/pokepocket/card/A1-121.webp
+Klefki,https://static.dotgg.gg/pokepocket/card/A3-121.webp
 Gabite,https://static.dotgg.gg/pokepocket/card/A2-122.webp
 Gengar,https://static.dotgg.gg/pokepocket/card/A1-122.webp
+Solgaleo ex,https://static.dotgg.gg/pokepocket/card/A3-122.webp
 Garchomp,https://static.dotgg.gg/pokepocket/card/A2-123.webp
 Gengar ex,https://static.dotgg.gg/pokepocket/card/A1-123.webp
+Magearna,https://static.dotgg.gg/pokepocket/card/A3-123.webp
+Drampa,https://static.dotgg.gg/pokepocket/card/A3-124.webp
 Drowzee,https://static.dotgg.gg/pokepocket/card/A1-124.webp
 Lickitung,https://static.dotgg.gg/pokepocket/card/A2-124.webp
 Hypno,https://static.dotgg.gg/pokepocket/card/A1-125.webp
+Jangmo-o,https://static.dotgg.gg/pokepocket/card/A3-125.webp
 Lickilicky ex,https://static.dotgg.gg/pokepocket/card/A2-125.webp
 Eevee,https://static.dotgg.gg/pokepocket/card/A2-126.webp
+Hakamo-o,https://static.dotgg.gg/pokepocket/card/A3-126.webp
 Mr. Mime,https://static.dotgg.gg/pokepocket/card/A1-126.webp
 Jynx,https://static.dotgg.gg/pokepocket/card/A1-127.webp
+Kommo-o,https://static.dotgg.gg/pokepocket/card/A3-127.webp
 Porygon,https://static.dotgg.gg/pokepocket/card/A2-127.webp
 Mewtwo,https://static.dotgg.gg/pokepocket/card/A1-128.webp
 Porygon2,https://static.dotgg.gg/pokepocket/card/A2-128.webp
+Tauros,https://static.dotgg.gg/pokepocket/card/A3-128.webp
 Mewtwo ex,https://static.dotgg.gg/pokepocket/card/A1-129.webp
 Porygon-Z,https://static.dotgg.gg/pokepocket/card/A2-129.webp
+Skitty,https://static.dotgg.gg/pokepocket/card/A3-129.webp
 Aipom,https://static.dotgg.gg/pokepocket/card/A2-130.webp
+Delcatty,https://static.dotgg.gg/pokepocket/card/A3-130.webp
 Ralts,https://static.dotgg.gg/pokepocket/card/A1-130.webp
 Ambipom,https://static.dotgg.gg/pokepocket/card/A2-131.webp
+Fletchling,https://static.dotgg.gg/pokepocket/card/A3-131.webp
 Kirlia,https://static.dotgg.gg/pokepocket/card/A1-131.webp
 Gardevoir,https://static.dotgg.gg/pokepocket/card/A1-132.webp
+Hawlucha,https://static.dotgg.gg/pokepocket/card/A3-132.webp
 Starly,https://static.dotgg.gg/pokepocket/card/A2-132.webp
+Pikipek,https://static.dotgg.gg/pokepocket/card/A3-133.webp
 Staravia,https://static.dotgg.gg/pokepocket/card/A2-133.webp
 Woobat,https://static.dotgg.gg/pokepocket/card/A1-133.webp
 Staraptor,https://static.dotgg.gg/pokepocket/card/A2-134.webp
 Swoobat,https://static.dotgg.gg/pokepocket/card/A1-134.webp
+Trumbeak,https://static.dotgg.gg/pokepocket/card/A3-134.webp
 Bidoof,https://static.dotgg.gg/pokepocket/card/A2-135.webp
 Golett,https://static.dotgg.gg/pokepocket/card/A1-135.webp
+Toucannon,https://static.dotgg.gg/pokepocket/card/A3-135.webp
 Bibarel,https://static.dotgg.gg/pokepocket/card/A2-136.webp
 Golurk,https://static.dotgg.gg/pokepocket/card/A1-136.webp
+Yungoos,https://static.dotgg.gg/pokepocket/card/A3-136.webp
 Buneary,https://static.dotgg.gg/pokepocket/card/A2-137.webp
+Gumshoos,https://static.dotgg.gg/pokepocket/card/A3-137.webp
 Sandshrew,https://static.dotgg.gg/pokepocket/card/A1-137.webp
 Lopunny,https://static.dotgg.gg/pokepocket/card/A2-138.webp
 Sandslash,https://static.dotgg.gg/pokepocket/card/A1-138.webp
+Stufful,https://static.dotgg.gg/pokepocket/card/A3-138.webp
+Bewear,https://static.dotgg.gg/pokepocket/card/A3-139.webp
 Diglett,https://static.dotgg.gg/pokepocket/card/A1-139.webp
 Glameow,https://static.dotgg.gg/pokepocket/card/A2-139.webp
 Dugtrio,https://static.dotgg.gg/pokepocket/card/A1-140.webp
+Oranguru,https://static.dotgg.gg/pokepocket/card/A3-140.webp
 Purugly,https://static.dotgg.gg/pokepocket/card/A2-140.webp
 Chatot,https://static.dotgg.gg/pokepocket/card/A2-141.webp
+Komala,https://static.dotgg.gg/pokepocket/card/A3-141.webp
 Mankey,https://static.dotgg.gg/pokepocket/card/A1-141.webp
+Big Malasada,https://static.dotgg.gg/pokepocket/card/A3-142.webp
 Fan Rotom,https://static.dotgg.gg/pokepocket/card/A2-142.webp
 Primeape,https://static.dotgg.gg/pokepocket/card/A1-142.webp
+Fishing Net,https://static.dotgg.gg/pokepocket/card/A3-143.webp
 Machop,https://static.dotgg.gg/pokepocket/card/A1-143.webp
 Regigigas,https://static.dotgg.gg/pokepocket/card/A2-143.webp
 Machoke,https://static.dotgg.gg/pokepocket/card/A1-144.webp
+Rare Candy,https://static.dotgg.gg/pokepocket/card/A3-144.webp
 Skull Fossil,https://static.dotgg.gg/pokepocket/card/A2-144.webp
 Armor Fossil,https://static.dotgg.gg/pokepocket/card/A2-145.webp
 Machamp,https://static.dotgg.gg/pokepocket/card/A1-145.webp
+Rotom Dex,https://static.dotgg.gg/pokepocket/card/A3-145.webp
 Machamp ex,https://static.dotgg.gg/pokepocket/card/A1-146.webp
+Poison Barb,https://static.dotgg.gg/pokepocket/card/A3-146.webp
 Pokémon Communication,https://static.dotgg.gg/pokepocket/card/A2-146.webp
 Geodude,https://static.dotgg.gg/pokepocket/card/A1-147.webp
 Giant Cape,https://static.dotgg.gg/pokepocket/card/A2-147.webp
+Leaf Cape,https://static.dotgg.gg/pokepocket/card/A3-147.webp
+Acerola,https://static.dotgg.gg/pokepocket/card/A3-148.webp
 Graveler,https://static.dotgg.gg/pokepocket/card/A1-148.webp
 Rocky Helmet,https://static.dotgg.gg/pokepocket/card/A2-148.webp
 Golem,https://static.dotgg.gg/pokepocket/card/A1-149.webp
+Ilima,https://static.dotgg.gg/pokepocket/card/A3-149.webp
 Lum Berry,https://static.dotgg.gg/pokepocket/card/A2-149.webp
 Cyrus,https://static.dotgg.gg/pokepocket/card/A2-150.webp
+Kiawe,https://static.dotgg.gg/pokepocket/card/A3-150.webp
 Onix,https://static.dotgg.gg/pokepocket/card/A1-150.webp
 Cubone,https://static.dotgg.gg/pokepocket/card/A1-151.webp
+Guzma,https://static.dotgg.gg/pokepocket/card/A3-151.webp
 Team Galactic Grunt,https://static.dotgg.gg/pokepocket/card/A2-151.webp
 Cynthia,https://static.dotgg.gg/pokepocket/card/A2-152.webp
+Lana,https://static.dotgg.gg/pokepocket/card/A3-152.webp
 Marowak,https://static.dotgg.gg/pokepocket/card/A1-152.webp
 Marowak ex,https://static.dotgg.gg/pokepocket/card/A1-153.webp
+Sophocles,https://static.dotgg.gg/pokepocket/card/A3-153.webp
 Volkner,https://static.dotgg.gg/pokepocket/card/A2-153.webp
 Dawn,https://static.dotgg.gg/pokepocket/card/A2-154.webp
 Hitmonlee,https://static.dotgg.gg/pokepocket/card/A1-154.webp
+Mallow,https://static.dotgg.gg/pokepocket/card/A3-154.webp
 Hitmonchan,https://static.dotgg.gg/pokepocket/card/A1-155.webp
+Lillie,https://static.dotgg.gg/pokepocket/card/A3-155.webp
 Mars,https://static.dotgg.gg/pokepocket/card/A2-155.webp
+Alolan Exeggutor,https://static.dotgg.gg/pokepocket/card/A3-156.webp
 Rhyhorn,https://static.dotgg.gg/pokepocket/card/A1-156.webp
 Tangrowth,https://static.dotgg.gg/pokepocket/card/A2-156.webp
 Combee,https://static.dotgg.gg/pokepocket/card/A2-157.webp
+Morelull,https://static.dotgg.gg/pokepocket/card/A3-157.webp
 Rhydon,https://static.dotgg.gg/pokepocket/card/A1-157.webp
 Carnivine,https://static.dotgg.gg/pokepocket/card/A2-158.webp
 Kabuto,https://static.dotgg.gg/pokepocket/card/A1-158.webp
+Tsareena,https://static.dotgg.gg/pokepocket/card/A3-158.webp
 Kabutops,https://static.dotgg.gg/pokepocket/card/A1-159.webp
 Shaymin,https://static.dotgg.gg/pokepocket/card/A2-159.webp
+Tapu Bulu,https://static.dotgg.gg/pokepocket/card/A3-159.webp
+Alolan Marowak,https://static.dotgg.gg/pokepocket/card/A3-160.webp
 Mamoswine,https://static.dotgg.gg/pokepocket/card/A2-160.webp
 Mienfoo,https://static.dotgg.gg/pokepocket/card/A1-160.webp
 Gastrodon,https://static.dotgg.gg/pokepocket/card/A2-161.webp
 Mienshao,https://static.dotgg.gg/pokepocket/card/A1-161.webp
+Turtonator,https://static.dotgg.gg/pokepocket/card/A3-161.webp
+Alolan Vulpix,https://static.dotgg.gg/pokepocket/card/A3-162.webp
 Clobbopus,https://static.dotgg.gg/pokepocket/card/A1-162.webp
 Manaphy,https://static.dotgg.gg/pokepocket/card/A2-162.webp
 Grapploct,https://static.dotgg.gg/pokepocket/card/A1-163.webp
+Pyukumuku,https://static.dotgg.gg/pokepocket/card/A3-163.webp
 Shinx,https://static.dotgg.gg/pokepocket/card/A2-163.webp
 Ekans,https://static.dotgg.gg/pokepocket/card/A1-164.webp
 Rotom,https://static.dotgg.gg/pokepocket/card/A2-164.webp
+Tapu Fini,https://static.dotgg.gg/pokepocket/card/A3-164.webp
 Arbok,https://static.dotgg.gg/pokepocket/card/A1-165.webp
 Drifloon,https://static.dotgg.gg/pokepocket/card/A2-165.webp
+Oricorio,https://static.dotgg.gg/pokepocket/card/A3-165.webp
 Mesprit,https://static.dotgg.gg/pokepocket/card/A2-166.webp
 Nidoran♀,https://static.dotgg.gg/pokepocket/card/A1-166.webp
+Tapu Koko,https://static.dotgg.gg/pokepocket/card/A3-166.webp
+Cutiefly,https://static.dotgg.gg/pokepocket/card/A3-167.webp
 Giratina,https://static.dotgg.gg/pokepocket/card/A2-167.webp
 Nidorina,https://static.dotgg.gg/pokepocket/card/A1-167.webp
+Comfey,https://static.dotgg.gg/pokepocket/card/A3-168.webp
 Cresselia,https://static.dotgg.gg/pokepocket/card/A2-168.webp
 Nidoqueen,https://static.dotgg.gg/pokepocket/card/A1-168.webp
 Nidoran♂,https://static.dotgg.gg/pokepocket/card/A1-169.webp
 Rhyperior,https://static.dotgg.gg/pokepocket/card/A2-169.webp
+Sandygast,https://static.dotgg.gg/pokepocket/card/A3-169.webp
 Lucario,https://static.dotgg.gg/pokepocket/card/A2-170.webp
 Nidorino,https://static.dotgg.gg/pokepocket/card/A1-170.webp
+Tapu Lele,https://static.dotgg.gg/pokepocket/card/A3-170.webp
+Cosmog,https://static.dotgg.gg/pokepocket/card/A3-171.webp
 Hippopotas,https://static.dotgg.gg/pokepocket/card/A2-171.webp
 Nidoking,https://static.dotgg.gg/pokepocket/card/A1-171.webp
+Rockruff,https://static.dotgg.gg/pokepocket/card/A3-172.webp
 Spiritomb,https://static.dotgg.gg/pokepocket/card/A2-172.webp
 Zubat,https://static.dotgg.gg/pokepocket/card/A1-172.webp
 Croagunk,https://static.dotgg.gg/pokepocket/card/A2-173.webp
 Golbat,https://static.dotgg.gg/pokepocket/card/A1-173.webp
+Mudsdale,https://static.dotgg.gg/pokepocket/card/A3-173.webp
 Grimer,https://static.dotgg.gg/pokepocket/card/A1-174.webp
 Heatran,https://static.dotgg.gg/pokepocket/card/A2-174.webp
+Minior,https://static.dotgg.gg/pokepocket/card/A3-174.webp
 Garchomp,https://static.dotgg.gg/pokepocket/card/A2-175.webp
+Magearna,https://static.dotgg.gg/pokepocket/card/A3-175.webp
 Muk,https://static.dotgg.gg/pokepocket/card/A1-175.webp
+Drampa,https://static.dotgg.gg/pokepocket/card/A3-176.webp
 Koffing,https://static.dotgg.gg/pokepocket/card/A1-176.webp
 Staraptor,https://static.dotgg.gg/pokepocket/card/A2-176.webp
 Bidoof,https://static.dotgg.gg/pokepocket/card/A2-177.webp
+Pikipek,https://static.dotgg.gg/pokepocket/card/A3-177.webp
 Weezing,https://static.dotgg.gg/pokepocket/card/A1-177.webp
+Bewear,https://static.dotgg.gg/pokepocket/card/A3-178.webp
 Glameow,https://static.dotgg.gg/pokepocket/card/A2-178.webp
 Mawile,https://static.dotgg.gg/pokepocket/card/A1-178.webp
+Komala,https://static.dotgg.gg/pokepocket/card/A3-179.webp
 Pawniard,https://static.dotgg.gg/pokepocket/card/A1-179.webp
 Regigigas,https://static.dotgg.gg/pokepocket/card/A2-179.webp
 Bisharp,https://static.dotgg.gg/pokepocket/card/A1-180.webp
+Decidueye ex,https://static.dotgg.gg/pokepocket/card/A3-180.webp
 Yanmega ex,https://static.dotgg.gg/pokepocket/card/A2-180.webp
+Dhelmise ex,https://static.dotgg.gg/pokepocket/card/A3-181.webp
 Infernape ex,https://static.dotgg.gg/pokepocket/card/A2-181.webp
 Meltan,https://static.dotgg.gg/pokepocket/card/A1-181.webp
+Incineroar ex,https://static.dotgg.gg/pokepocket/card/A3-182.webp
 Melmetal,https://static.dotgg.gg/pokepocket/card/A1-182.webp
 Palkia ex,https://static.dotgg.gg/pokepocket/card/A2-182.webp
+Crabominable ex,https://static.dotgg.gg/pokepocket/card/A3-183.webp
 Dratini,https://static.dotgg.gg/pokepocket/card/A1-183.webp
 Pachirisu ex,https://static.dotgg.gg/pokepocket/card/A2-183.webp
 Dragonair,https://static.dotgg.gg/pokepocket/card/A1-184.webp
 Mismagius ex,https://static.dotgg.gg/pokepocket/card/A2-184.webp
+Wishiwashi ex,https://static.dotgg.gg/pokepocket/card/A3-184.webp
+Alolan Raichu ex,https://static.dotgg.gg/pokepocket/card/A3-185.webp
 Dragonite,https://static.dotgg.gg/pokepocket/card/A1-185.webp
 Gallade ex,https://static.dotgg.gg/pokepocket/card/A2-185.webp
+Lunala ex,https://static.dotgg.gg/pokepocket/card/A3-186.webp
 Pidgey,https://static.dotgg.gg/pokepocket/card/A1-186.webp
 Weavile ex,https://static.dotgg.gg/pokepocket/card/A2-186.webp
 Darkrai ex,https://static.dotgg.gg/pokepocket/card/A2-187.webp
+Passimian ex,https://static.dotgg.gg/pokepocket/card/A3-187.webp
 Pidgeotto,https://static.dotgg.gg/pokepocket/card/A1-187.webp
+Alolan Muk ex,https://static.dotgg.gg/pokepocket/card/A3-188.webp
 Dialga ex,https://static.dotgg.gg/pokepocket/card/A2-188.webp
 Pidgeot,https://static.dotgg.gg/pokepocket/card/A1-188.webp
 Lickilicky ex,https://static.dotgg.gg/pokepocket/card/A2-189.webp
 Rattata,https://static.dotgg.gg/pokepocket/card/A1-189.webp
+Solgaleo ex,https://static.dotgg.gg/pokepocket/card/A3-189.webp
+Acerola,https://static.dotgg.gg/pokepocket/card/A3-190.webp
 Cyrus,https://static.dotgg.gg/pokepocket/card/A2-190.webp
 Raticate,https://static.dotgg.gg/pokepocket/card/A1-190.webp
+Ilima,https://static.dotgg.gg/pokepocket/card/A3-191.webp
 Spearow,https://static.dotgg.gg/pokepocket/card/A1-191.webp
 Team Galactic Grunt,https://static.dotgg.gg/pokepocket/card/A2-191.webp
 Cynthia,https://static.dotgg.gg/pokepocket/card/A2-192.webp
 Fearow,https://static.dotgg.gg/pokepocket/card/A1-192.webp
+Kiawe,https://static.dotgg.gg/pokepocket/card/A3-192.webp
+Guzma,https://static.dotgg.gg/pokepocket/card/A3-193.webp
 Jigglypuff,https://static.dotgg.gg/pokepocket/card/A1-193.webp
 Volkner,https://static.dotgg.gg/pokepocket/card/A2-193.webp
 Dawn,https://static.dotgg.gg/pokepocket/card/A2-194.webp
+Lana,https://static.dotgg.gg/pokepocket/card/A3-194.webp
 Wigglytuff,https://static.dotgg.gg/pokepocket/card/A1-194.webp
 Mars,https://static.dotgg.gg/pokepocket/card/A2-195.webp
+Sophocles,https://static.dotgg.gg/pokepocket/card/A3-195.webp
 Wigglytuff ex,https://static.dotgg.gg/pokepocket/card/A1-195.webp
+Mallow,https://static.dotgg.gg/pokepocket/card/A3-196.webp
 Meowth,https://static.dotgg.gg/pokepocket/card/A1-196.webp
 Yanmega ex,https://static.dotgg.gg/pokepocket/card/A2-196.webp
 Infernape ex,https://static.dotgg.gg/pokepocket/card/A2-197.webp
+Lillie,https://static.dotgg.gg/pokepocket/card/A3-197.webp
 Persian,https://static.dotgg.gg/pokepocket/card/A1-197.webp
+Decidueye ex,https://static.dotgg.gg/pokepocket/card/A3-198.webp
 Farfetch’d,https://static.dotgg.gg/pokepocket/card/A1-198.webp
 Pachirisu ex,https://static.dotgg.gg/pokepocket/card/A2-198.webp
+Dhelmise ex,https://static.dotgg.gg/pokepocket/card/A3-199.webp
 Doduo,https://static.dotgg.gg/pokepocket/card/A1-199.webp
 Mismagius ex,https://static.dotgg.gg/pokepocket/card/A2-199.webp
 Dodrio,https://static.dotgg.gg/pokepocket/card/A1-200.webp
 Gallade ex,https://static.dotgg.gg/pokepocket/card/A2-200.webp
+Incineroar ex,https://static.dotgg.gg/pokepocket/card/A3-200.webp
+Crabominable ex,https://static.dotgg.gg/pokepocket/card/A3-201.webp
 Lickitung,https://static.dotgg.gg/pokepocket/card/A1-201.webp
 Weavile ex,https://static.dotgg.gg/pokepocket/card/A2-201.webp
 Chansey,https://static.dotgg.gg/pokepocket/card/A1-202.webp
 Darkrai ex,https://static.dotgg.gg/pokepocket/card/A2-202.webp
+Wishiwashi ex,https://static.dotgg.gg/pokepocket/card/A3-202.webp
+Alolan Raichu ex,https://static.dotgg.gg/pokepocket/card/A3-203.webp
 Kangaskhan,https://static.dotgg.gg/pokepocket/card/A1-203.webp
 Lickilicky ex,https://static.dotgg.gg/pokepocket/card/A2-203.webp
+Lunala ex,https://static.dotgg.gg/pokepocket/card/A3-204.webp
 Palkia ex,https://static.dotgg.gg/pokepocket/card/A2-204.webp
 Tauros,https://static.dotgg.gg/pokepocket/card/A1-204.webp
 Dialga ex,https://static.dotgg.gg/pokepocket/card/A2-205.webp
 Ditto,https://static.dotgg.gg/pokepocket/card/A1-205.webp
+Passimian ex,https://static.dotgg.gg/pokepocket/card/A3-205.webp
+Alolan Muk ex,https://static.dotgg.gg/pokepocket/card/A3-206.webp
 Eevee,https://static.dotgg.gg/pokepocket/card/A1-206.webp
 Palkia ex,https://static.dotgg.gg/pokepocket/card/A2-206.webp
 Dialga ex,https://static.dotgg.gg/pokepocket/card/A2-207.webp
 Eevee,https://static.dotgg.gg/pokepocket/card/A1-207.webp
+Solgaleo ex,https://static.dotgg.gg/pokepocket/card/A3-207.webp
 Eevee,https://static.dotgg.gg/pokepocket/card/A1-208.webp
+Guzma,https://static.dotgg.gg/pokepocket/card/A3-208.webp
+Lillie,https://static.dotgg.gg/pokepocket/card/A3-209.webp
 Porygon,https://static.dotgg.gg/pokepocket/card/A1-209.webp
 Aerodactyl,https://static.dotgg.gg/pokepocket/card/A1-210.webp
+Bulbasaur,https://static.dotgg.gg/pokepocket/card/A3-210.webp
+Ivysaur,https://static.dotgg.gg/pokepocket/card/A3-211.webp
 Snorlax,https://static.dotgg.gg/pokepocket/card/A1-211.webp
 Minccino,https://static.dotgg.gg/pokepocket/card/A1-212.webp
+Venusaur,https://static.dotgg.gg/pokepocket/card/A3-212.webp
 Cinccino,https://static.dotgg.gg/pokepocket/card/A1-213.webp
+Exeggcute,https://static.dotgg.gg/pokepocket/card/A3-213.webp
+Exeggutor,https://static.dotgg.gg/pokepocket/card/A3-214.webp
 Wooloo,https://static.dotgg.gg/pokepocket/card/A1-214.webp
 Dubwool,https://static.dotgg.gg/pokepocket/card/A1-215.webp
+Squirtle,https://static.dotgg.gg/pokepocket/card/A3-215.webp
 Helix Fossil,https://static.dotgg.gg/pokepocket/card/A1-216.webp
+Wartortle,https://static.dotgg.gg/pokepocket/card/A3-216.webp
+Blastoise,https://static.dotgg.gg/pokepocket/card/A3-217.webp
 Dome Fossil,https://static.dotgg.gg/pokepocket/card/A1-217.webp
 Old Amber,https://static.dotgg.gg/pokepocket/card/A1-218.webp
+Staryu,https://static.dotgg.gg/pokepocket/card/A3-218.webp
 Erika,https://static.dotgg.gg/pokepocket/card/A1-219.webp
+Starmie,https://static.dotgg.gg/pokepocket/card/A3-219.webp
+Gastly,https://static.dotgg.gg/pokepocket/card/A3-220.webp
 Misty,https://static.dotgg.gg/pokepocket/card/A1-220.webp
 Blaine,https://static.dotgg.gg/pokepocket/card/A1-221.webp
+Haunter,https://static.dotgg.gg/pokepocket/card/A3-221.webp
+Gengar,https://static.dotgg.gg/pokepocket/card/A3-222.webp
 Koga,https://static.dotgg.gg/pokepocket/card/A1-222.webp
 Giovanni,https://static.dotgg.gg/pokepocket/card/A1-223.webp
+Machop,https://static.dotgg.gg/pokepocket/card/A3-223.webp
 Brock,https://static.dotgg.gg/pokepocket/card/A1-224.webp
+Machoke,https://static.dotgg.gg/pokepocket/card/A3-224.webp
+Machamp,https://static.dotgg.gg/pokepocket/card/A3-225.webp
 Sabrina,https://static.dotgg.gg/pokepocket/card/A1-225.webp
+Cubone,https://static.dotgg.gg/pokepocket/card/A3-226.webp
 Lt. Surge,https://static.dotgg.gg/pokepocket/card/A1-226.webp
 Bulbasaur,https://static.dotgg.gg/pokepocket/card/A1-227.webp
+Marowak,https://static.dotgg.gg/pokepocket/card/A3-227.webp
 Gloom,https://static.dotgg.gg/pokepocket/card/A1-228.webp
+Jigglypuff,https://static.dotgg.gg/pokepocket/card/A3-228.webp
 Pinsir,https://static.dotgg.gg/pokepocket/card/A1-229.webp
+Wigglytuff,https://static.dotgg.gg/pokepocket/card/A3-229.webp
 Charmander,https://static.dotgg.gg/pokepocket/card/A1-230.webp
+Venusaur ex,https://static.dotgg.gg/pokepocket/card/A3-230.webp
+Exeggutor ex,https://static.dotgg.gg/pokepocket/card/A3-231.webp
 Rapidash,https://static.dotgg.gg/pokepocket/card/A1-231.webp
+Blastoise ex,https://static.dotgg.gg/pokepocket/card/A3-232.webp
 Squirtle,https://static.dotgg.gg/pokepocket/card/A1-232.webp
 Gyarados,https://static.dotgg.gg/pokepocket/card/A1-233.webp
+Starmie ex,https://static.dotgg.gg/pokepocket/card/A3-233.webp
+Gengar ex,https://static.dotgg.gg/pokepocket/card/A3-234.webp
 Lapras,https://static.dotgg.gg/pokepocket/card/A1-234.webp
 Electrode,https://static.dotgg.gg/pokepocket/card/A1-235.webp
+Machamp ex,https://static.dotgg.gg/pokepocket/card/A3-235.webp
 Alakazam,https://static.dotgg.gg/pokepocket/card/A1-236.webp
+Marowak ex,https://static.dotgg.gg/pokepocket/card/A3-236.webp
 Slowpoke,https://static.dotgg.gg/pokepocket/card/A1-237.webp
+Wigglytuff ex,https://static.dotgg.gg/pokepocket/card/A3-237.webp
 Diglett,https://static.dotgg.gg/pokepocket/card/A1-238.webp
+Lunala ex,https://static.dotgg.gg/pokepocket/card/A3-238.webp
 Cubone,https://static.dotgg.gg/pokepocket/card/A1-239.webp
+Solgaleo ex,https://static.dotgg.gg/pokepocket/card/A3-239.webp
 Nidoqueen,https://static.dotgg.gg/pokepocket/card/A1-240.webp
 Nidoking,https://static.dotgg.gg/pokepocket/card/A1-241.webp
 Golbat,https://static.dotgg.gg/pokepocket/card/A1-242.webp
