@@ -4,10 +4,10 @@ import requests
 from tqdm import tqdm
 
 
-def getCardArt(csv_path="data/rawCards.csv", output_dir="data/cardArt", force_download=False):
-    os.makedirs(output_dir, exist_ok=True)
+def getCardArt(csvPath="data/rawCards.csv", outputDirectory="data/cardArt", forceDownload=False):
+    os.makedirs(outputDirectory, exist_ok=True)
 
-    df = pd.read_csv(csv_path)
+    df = pd.read_csv(csvPath)
 
     for _, row in tqdm(df.iterrows(), total=len(df), desc="Downloading card art"):
         name = row['name'].replace(" ", "_").replace("/", "_")
@@ -16,9 +16,9 @@ def getCardArt(csv_path="data/rawCards.csv", output_dir="data/cardArt", force_do
 
         cardID = imageURL.split("/")[-1].split(".")[0]
         filename = f"{cardID}__{name}{ext}"
-        savePath = os.path.join(output_dir, filename)
+        savePath = os.path.join(outputDirectory, filename)
 
-        if os.path.exists(savePath) and not force_download:
+        if os.path.exists(savePath) and not forceDownload:
             continue
 
         try:
@@ -36,4 +36,4 @@ def getCardArt(csv_path="data/rawCards.csv", output_dir="data/cardArt", force_do
 
 
 if __name__ == "__main__":
-    getCardArt(force_download=True)
+    getCardArt(forceDownload=True)

@@ -17,7 +17,6 @@ MAX_SCROLLS = 5
 scrolls = 0
 
 while scrolls < MAX_SCROLLS:
-    # Collect new deck URLs
     deckContents = driver.find_elements(
         By.CSS_SELECTOR, 'tr[data-winrate] td:nth-child(3) a')
     for el in deckContents:
@@ -25,7 +24,6 @@ while scrolls < MAX_SCROLLS:
         if href:
             deckURLs.add("https://play.limitlesstcg.com" + href)
 
-    # Scroll to bottom
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(2)
     scrolls += 1

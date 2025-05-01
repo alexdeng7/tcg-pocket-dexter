@@ -9,13 +9,12 @@ matchPath = os.path.join(DATA_DIR, "matchResults.csv")
 deckPath = os.path.join(DATA_DIR, "finalDecklists.csv")
 outputPath = os.path.join(DATA_DIR, "decksMatched.csv")
 
-
 matchDF = pd.read_csv(matchPath)
 deckDF = pd.read_csv(deckPath)
 
 
-def getPrefix(cardStr):
-    match = re.match(r"(.*?)\s+\(([A-Za-z0-9]+)-\d+\)", cardStr)
+def getPrefix(cardString):
+    match = re.match(r"(.*?)\s+\(([A-Za-z0-9]+)-\d+\)", cardString)
     if match:
         name = match.group(1).strip().lower()
         prefix = match.group(2).strip().upper()

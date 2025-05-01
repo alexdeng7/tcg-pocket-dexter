@@ -30,9 +30,9 @@ def normalizeName(name):
     return unicodedata.normalize("NFKD", name).encode("ASCII", "ignore").decode("utf-8").lower().strip()
 
 
-def parseCards(card_list):
+def parseCards(cardList):
     entries = []
-    for entry in card_list.split(","):
+    for entry in cardList.split(","):
         entry = entry.strip()
         match = re.match(r"(\d+)\s+(.*?)\s+\(([^)]+)\)", entry)
         if match:

@@ -29,7 +29,6 @@ imageFiles = sorted(
 if not imageFiles:
     raise Exception("No screenshot found")
 INPUT_IMAGE = imageFiles[0]
-print(f"Selected last uploaded: {INPUT_IMAGE}")
 
 os.makedirs(CROP_OUTPUT_DIR, exist_ok=True)
 os.makedirs(os.path.dirname(CSV_OUTPUT), exist_ok=True)
@@ -59,7 +58,7 @@ predictions = result[0]['predictions']['predictions']
 print(f"{len(predictions)} cards found\n")
 
 croppedPaths = []
-for idx, pred in enumerate(predictions):
+for index, pred in enumerate(predictions):
     xCenter, yCenter = int(pred['x']), int(pred['y'])
     width, height = int(pred['width']), int(pred['height'])
     x1 = max(0, xCenter - width // 2)
@@ -68,7 +67,7 @@ for idx, pred in enumerate(predictions):
     y2 = min(y1 + height, resized.shape[0])
 
     cropped = resized[y1:y2, x1:x2]
-    savePath = os.path.join(CROP_OUTPUT_DIR, f"card_{idx + 1}.png")
+    savePath = os.path.join(CROP_OUTPUT_DIR, f"card_{index + 1}.png")
     cv2.imwrite(savePath, cropped)
     croppedPaths.append(savePath)
     print(f"Card saved: {savePath}")
@@ -88,7 +87,7 @@ def hashDistance(hash1, hash2):
     return sum(h1 - h2 for h1, h2 in zip(hash1.values(), hash2.values()))
 
 
-print("\nParsing Through cardArt...")
+print("\Looking for your cards...")
 cardHashes = {}
 for filename in tqdm(os.listdir(CARD_ART_DIR)):
     if filename.lower().endswith((".png", ".jpg", ".jpeg", ".webp")):

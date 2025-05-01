@@ -14,7 +14,6 @@ BASE_URL = "https://ptcgpocket.gg/cards"
 def ptcgpScraper():
     os.makedirs("data", exist_ok=True)
 
-    print("Loading website...")
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
@@ -22,8 +21,6 @@ def ptcgpScraper():
     driver = webdriver.Chrome(service=Service(
         ChromeDriverManager().install()), options=options)
     driver.get(BASE_URL)
-
-    print("Loading the cards page...")
 
     SCROLL_PAUSE_TIME = 1.5
     MAX_SCROLL_ATTEMPTS = 80

@@ -31,13 +31,13 @@ function App() {
       setProgress("Searching card database...");
 
       await new Promise((r) => setTimeout(r, 1000));
-      setProgress("Card found!");
+      setProgress("Card found.");
 
       const data = await res.json();
-      setMessage("Upload and matching complete!");
+      setMessage("Upload and matching complete.");
       navigate("/results");
     } catch {
-      setMessage("Upload failed, please try again with a new screenshot!");
+      setMessage("Upload failed, please try again with a new screenshot.");
     } finally {
       setUploading(false);
     }
